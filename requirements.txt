@@ -1,0 +1,28 @@
+numpy>=1.23.0
+pandas>=1.5.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+scikit-learn>=1.2.0
+
+tensorflow>=2.12.0
+keras>=2.12.0
+
+flask>=2.2.0
+
+jupyter>=1.0.0
+notebook>=6.5.0
+
+scipy>=1.10.0
+
+# Optional (useful for NLP tasks)
+
+nltk>=3.8.0
+
+# Optional (if using advanced deep learning utilities)
+
+h5py>=3.8.0
+
+# Optional (for image handling)
+
+pillow>=9.5.0
