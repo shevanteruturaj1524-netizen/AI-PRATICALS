@@ -69,7 +69,6 @@ This repository contains a series of practical implementations covering core con
 * Pandas
 * Scikit-learn
 * TensorFlow / Keras
-* Flask
 * Matplotlib / Seaborn
 
 ---
